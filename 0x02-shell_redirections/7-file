@@ -1,1 +1,1 @@
-cat > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | echo "Best School\n"
+echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
